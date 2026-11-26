@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rclone Google Drive</title>
+</head>
+<body>
+    <h1>Rclone Google Drive Integration</h1>
+    <p>This application is intended for personal use
+    to access Google Drive through Rclone on Linux.</p>
+
+    <h2 id="privacy">Privacy Policy</h2>
+    <p>This application accesses Google Drive files
+    solely on behalf of the authorized user.</p>
+    <p>No user data is sold or shared with third parties.
+    Authentication credentials are stored locally
+    on the user's computer.</p>
+    <p>This website does not collect personal data.</p>
+</body>
+</html>
